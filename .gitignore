@@ -1,0 +1,12 @@
+.DS_Store
+config/endpoints.custom.json
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+projects/developer/**
+!projects/developer/README.md
+bin/http/developer
+tmp
+*.vim
+.vscode/
