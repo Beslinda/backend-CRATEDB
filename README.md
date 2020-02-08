@@ -5,4 +5,4 @@
   1. npm install
   2. node index.js
 
-All the code can be found in indes.js
+All the code can be found in index.js
